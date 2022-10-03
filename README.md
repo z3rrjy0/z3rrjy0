@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z3rrjy0
-- 👀 I’m interested mostly in c# and a bit of unity
-- 🌱 I’m currently learning c#
+- 👀 I’m mostly interested in c++
+- 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
