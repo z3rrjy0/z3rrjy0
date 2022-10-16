@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @z3rrjy0
 - 👀 I’m mostly interested in c++
 - 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything actually
+- 📫 How to reach me: 9ng@pm.me
 
 <!---
 z3rrjy0/z3rrjy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
